@@ -51,7 +51,7 @@ export default function App() {
           maxWidth: boxSize,
         }}
       >
-        Generated color: {randomHexValue}
+        Generated Color: {randomHexValue}
       </div>
       <div
         style={{
