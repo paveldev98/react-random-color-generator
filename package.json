@@ -23,12 +23,10 @@
   },
   "dependencies": {
     "@upleveled/react-scripts": "5.0.13",
-    "chalk": "^5.3.0",
     "chroma-js": "^3.1.1",
     "random-hex": "^1.0.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-spring": "^9.7.4",
     "sass": "1.78.0"
   },
   "devDependencies": {
@@ -36,6 +34,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@types/chroma-js": "^2.4.4",
     "@types/node": "^22.5.5",
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
